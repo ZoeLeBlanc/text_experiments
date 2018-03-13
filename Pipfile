@@ -16,7 +16,7 @@ scikit-learn = "*"
 nltk = "*"
 gensim = "*"
 spacy = "*"
-pyldavis = "*"
+"ae4764e" = {path = "/Users/zgl3n/Workspace/pyLDAvis", editable = true}
 
 
 [dev-packages]
