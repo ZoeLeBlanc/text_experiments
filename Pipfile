@@ -17,6 +17,7 @@ nltk = "*"
 gensim = "*"
 spacy = "*"
 "ae4764e" = {path = "/Users/zgl3n/Workspace/pyLDAvis", editable = true}
+python-louvain = "*"
 
 
 [dev-packages]
