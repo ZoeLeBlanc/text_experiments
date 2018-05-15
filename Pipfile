@@ -18,6 +18,8 @@ gensim = "*"
 spacy = "*"
 "ae4764e" = {path = "/Users/zgl3n/Workspace/pyLDAvis", editable = true}
 python-louvain = "*"
+google-cloud = "*"
+htrc-feature-reader = "*"
 
 
 [dev-packages]
